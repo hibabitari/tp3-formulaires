@@ -1,6 +1,6 @@
 
 # TP3 - Formulaires Symfony 2025/2026
-# Nom&Prenom : Bitari Hiba- Groupe A
+
 
 # Description du projet
 Implémentation d'une page produit avec formulaire d'ajout au panier en Symfony, respectant les bonnes pratiques et le principe de responsabilité unique.
