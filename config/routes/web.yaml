@@ -1,0 +1,11 @@
+# Route pour la racine
+app_home:
+    path: /
+    controller: App\Controller\ProductController::index
+    methods: GET
+
+# Route pour /product
+app_product:
+    path: /product
+    controller: App\Controller\ProductController::index
+    methods: GET
